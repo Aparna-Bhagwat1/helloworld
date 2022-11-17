@@ -4,7 +4,5 @@
 </head>
 <body>
 	<h1>HI ALLL</h1>
-	<h1>new line added</h1>
-	<h1>One more new line added</h1>
 </body>
 </html>
